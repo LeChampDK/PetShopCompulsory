@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HzmVs+v+i/EpC4G/9wszbp9iCntS+MPgwRsmM/KNORWqZ87H+VFoizfaIKEUK2CR/wbq10VPNWi0LKrd+uhHAg==",
+  "success": true,
+  "projectFilePath": "C:\\Skole\\PetShop\\PetShop.UI\\PetShop.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prixz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\prixz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
